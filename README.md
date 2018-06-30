@@ -9,4 +9,4 @@ Created for days challenge as part of the requirement for the Udacity Nanodegree
 
 
 
-![alt text](https://github.com/profread/PixelArtMaker/blob/master/designs.js)
+![alt text](https://github.com/profread/PixelArtMaker/blob/master/Screenshot.png)
